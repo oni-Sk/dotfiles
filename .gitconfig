@@ -1,0 +1,5 @@
+[user]
+	name = Sonny Klotz
+	email = klotz.sonny@gmail.com
+[core]
+	editor = nvim
