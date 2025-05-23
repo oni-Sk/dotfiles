@@ -11,6 +11,8 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
+setopt autocd
+
 eval "$(starship init zsh)"
 
 export NVM_DIR="$HOME/.nvm"
